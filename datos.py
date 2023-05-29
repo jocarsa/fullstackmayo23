@@ -1,0 +1,5 @@
+titulo = "Full Stack"
+subtitulo = "Mayo 2023"
+autor = "Jose Vicente Carratala"
+cabecera = "Esta es la cabecera"
+piedepagina = "Este es el pie de pagina"
